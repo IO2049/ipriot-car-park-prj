@@ -145,7 +145,7 @@ Follow these steps for each task or feature you work on:
    - Go to the repository on GitHub
    - Click "Pull requests" > "New pull request"
    - Select your branch
-   - Fill in the PR template
+   - Fill in the [PR template](../.github/pull_request_template.md)
    - Assign reviewers and add labels
 
 7. **Address Review Comments**
@@ -239,7 +239,7 @@ If you encounter merge conflicts:
 
 ## 5. Pull Requests
 
-- Use the PR template provided in the repository
+- Use the [PR template](../.github/pull_request_template.md) provided in the repository
 - Link the relevant issue(s) in the PR description
 - Ensure all CI checks pass before requesting review
 
